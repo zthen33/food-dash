@@ -25,8 +25,8 @@ Food-Dash is a responsive web application designed to simplify the food ordering
 
 1. **Install Dependencies**:
    ```bash
-  npm install
+     npm install
 2. **Run the Development Server**:
   ```bash
-  npm run dev
+     npm run dev
 
